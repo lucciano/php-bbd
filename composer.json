@@ -1,0 +1,12 @@
+{
+    "name": "lucciano/behat-demo",
+    "require": {
+        "behat/behat": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Luciano Andrade",
+            "email": "andrade.luciano@gmail.com"
+        }
+    ]
+}
